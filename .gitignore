@@ -1,0 +1,16 @@
+# 构建产物
+out/
+*.class
+*.jar
+
+# 日志与临时文件
+*.log
+debug.log
+fontcheck.png
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
